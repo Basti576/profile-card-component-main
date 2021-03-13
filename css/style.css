@@ -6,7 +6,7 @@
 }
 html{
     background-color: hsl(185, 75%, 39%);
-    background-image: url("/profile-card-component-main/images/bg-pattern-top.svg"),url("/profile-card-component-main/images/bg-pattern-top.svg");
+    background-image: url("../images/profile-card-component-main/images/bg-pattern-top.svg"),url("/profile-card-component-main/images/bg-pattern-top.svg");
    
     background-repeat:no-repeat no-repeat;
     background-position: 
